@@ -1,13 +1,13 @@
--->CASO NÃO TENHA O COMPOSER<--
 
-1- Baixe o composer: https://getcomposer.org/Composer-Setup.exe
+-->BEM-VINDO!<--
 
-2- Depois abra o cmd (aperte botão do windows + r, e digite cmd), vá para o diretório da aplicação e 
-digite: composer require phpmailer/phpmailer
+Primeiramente, esta aplicação só surtirá efeito se for testada dentro 
+da pasta HTDOCS do xampp devido ao uso de dependencias externas 
 
-3- verifique se no diretório da aplicação há a pasta "Vendor". Se ela existir, as dependencias foram instaladas com sucesso. 
+o caminho que você deve seguir é esse: disco local (C) -> xampp -> htdocs
 
-OBS: certifique-se que o diretório (ou pasta se preferir) esteja na pasta htdocs do xampp para funcionar
+basta colocar a aplicação lá e testar.
+
 
 -->PASSO A PASSO PARA USO<--
 
