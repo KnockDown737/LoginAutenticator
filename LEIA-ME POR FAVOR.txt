@@ -1,0 +1,25 @@
+-->CASO NÃO TENHA O COMPOSER<--
+
+1- Baixe o composer: https://getcomposer.org/Composer-Setup.exe
+
+2- Depois abra o cmd (aperte botão do windows + r, e digite cmd), vá para o diretório da aplicação e 
+digite: composer require phpmailer/phpmailer
+
+3- verifique se no diretório da aplicação há a pasta "Vendor". Se ela existir, as dependencias foram instaladas com sucesso. 
+
+OBS: certifique-se que o diretório (ou pasta se preferir) esteja na pasta htdocs do xampp para funcionar
+
+-->PASSO A PASSO PARA USO<--
+
+1- Digite qualquer email ( não esquecer do @ ) e senha que você quiser e aperte em "login"
+
+2- Quando a fase do duplo fator for liberada (a parte de colocar o token), acesse a conta fic do mailtrap, clique na mensagem correspondente ao email que você digitou, pegue o código e copie ele no campo.
+
+3- Pressione Login novamente e você vence!
+
+
+----CONTA FIC DO MAILTRAP----
+
+EMAIL: checking@dr.com
+
+SENHA: abacaxi1
